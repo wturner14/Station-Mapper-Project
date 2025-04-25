@@ -1,3 +1,3 @@
-# CHC
-GitHub Repository for my projects with the Climate Hazards Center
+# Station Mapper Project
+GitHub Repository for a class project on mapping station data
 
